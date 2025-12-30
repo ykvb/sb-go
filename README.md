@@ -1,5 +1,5 @@
-# Test Selfbot
-> ykvb
+# Discord Selfbot
+> GO-LANG
 
 # What this?
 It's a discord selfbot written in Go that does everything except make you coffee. It runs on your user account (not a bot account) so you can bypass Discord's restrictions and do whatever you want.
