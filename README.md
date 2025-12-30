@@ -1,5 +1,5 @@
-# ykvb
-> Test selfbot
+# Test Selfbot
+> ykvb
 
 # What this?
 It's a discord selfbot written in Go that does everything except make you coffee. It runs on your user account (not a bot account) so you can bypass Discord's restrictions and do whatever you want.
@@ -35,8 +35,8 @@ I AM not responsible for what you do with this client.
 ### 1. Clone & Install
 ```
 Clone this repository (or just copy the file).
-git clone [https://github.com/systemremote/sb-go]
-cd evict
+git clone [https://github.com/ykvb/sb-go]
+cd sb-go
 ```
 ### 3. Install dependencies
 ```
