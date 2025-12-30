@@ -1,2 +1,1 @@
-# sb-go
-selfbot test
+# test selfbot using GO lang lol
